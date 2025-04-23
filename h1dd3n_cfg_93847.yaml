@@ -1,4 +1,4 @@
-proxies:asdawd
+proxies:
 - name: Proxytiktok
   type: socks5
   server: 165.65.13.109
