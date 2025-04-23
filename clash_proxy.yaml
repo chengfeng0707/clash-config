@@ -1,0 +1,88 @@
+proxies:
+- name: Proxytiktok
+  type: socks5
+  server: 165.65.13.109
+  port: 40425
+  username: xGp2CbNoh9
+  password: jgRshWWoHV
+- name: Proxy1
+  type: socks5
+  server: 165.65.10.67
+  port: 5206
+  username: pgjtvrkcmsj9
+  password: fnsx5trviine
+- name: Proxy2
+  type: socks5
+  server: 165.65.13.110
+  port: 50426
+  username: HBzI4KTFlq
+  password: FGkpMnMJcB
+- name: Proxy3
+  type: socks5
+  server: 165.65.10.104
+  port: 5206
+  username: pgjtvrkcmwfq
+  password: hjrb6tstvd4o
+- name: Proxy4
+  type: socks5
+  server: 165.65.13.109
+  port: 40425
+  username: xGp2CbNoh9
+  password: jgRshWWoHV
+- name: Proxy5
+  type: socks5
+  server: 165.65.9.141
+  port: 5206
+  username: pgjtvrkcmef9
+  password: rfwbo6ef0l8s
+- name: Proxy6
+  type: socks5
+  server: 165.65.12.237
+  port: 5206
+  username: ngjtvrkcmj6s
+  password: wqfnhlq2igut
+- name: Proxy7
+  type: socks5
+  server: 165.65.14.92
+  port: 5206
+  username: sgjjrrzera4a
+  password: mawe32g2mth2
+- name: Proxy8
+  type: socks5
+  server: 165.65.131.238
+  port: 5206
+  username: dgjjrrzeq47p
+  password: apfsqr41p6i0
+- name: Proxy11
+  type: socks5
+  server: 165.65.131.155
+  port: 5206
+  username: zgjjrrzeq3bd
+  password: dtue8bvkg2gf
+- name: Proxy12
+  type: socks5
+  server: 165.65.14.231
+  port: 5206
+  username: ugjjrryd2kiy
+  password: xqzvjkpk92jm
+- name: Proxy13
+  type: socks5
+  server: 165.65.9.173
+  port: 5206
+  username: hgjjrrwrwyh3
+  password: cxge5mts9q2p
+rules:
+- PROCESS-NAME,com.zhiliaoapp.musically,Proxytiktok
+- PROCESS-NAME,com.ume.browser.hs,Proxytiktok
+- PROCESS-NAME,jy.x.separation.atxv.hvoh,Proxy1
+- PROCESS-NAME,jy.x.separation.nbsa.efah,Proxy2
+- PROCESS-NAME,jy.x.separation.rlru.gihp,Proxy3
+- PROCESS-NAME,jy.x.separation.avft.qguv,Proxy4
+- PROCESS-NAME,jy.x.separation.epce.ccxr,Proxy5
+- PROCESS-NAME,jy.x.separation.hwkz.hwnd,Proxy6
+- PROCESS-NAME,jy.x.separation.csuk.inrw,Proxy7
+- PROCESS-NAME,jy.x.separation.kvlk.zcwc,Proxy8
+- PROCESS-NAME,com.qihoo.magic.dMHa45ibpdmbphnLt92Yk_101,Proxy11
+- PROCESS-NAME,com.qihoo.magic.dMHa45ibpdmbphnLt92Yk_102,Proxy12
+- PROCESS-NAME,com.qihoo.magic.dMHa45ibpdmbphnLt92Yk_103,Proxy13
+
