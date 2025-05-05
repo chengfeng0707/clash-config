@@ -180,7 +180,7 @@
   username: zgjncvqwz2xm
   password: jwcu6px95gqw
 rules:
- - PROCESS-NAME,jy.x.separation.atxv.hvoh,1
+ - PROCESS-NAME,com.android.chrome,1
  - PROCESS-NAME,jy.x.separation.nbsa.efah,2
  - PROCESS-NAME,jy.x.separation.rlru.gihp,3
  - PROCESS-NAME,jy.x.separation.avft.qguv,4
