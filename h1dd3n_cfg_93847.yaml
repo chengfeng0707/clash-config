@@ -1,212 +1,212 @@
 proxies:
-- name: 1
+- name: Proxy1
   type: socks5
   server: 165.65.13.52
   port: 22052
   username: Uo12yA8WGE
   password: Y1CuwdznSy
-- name: 2
+- name: Proxy2
   type: socks5
   server: 165.65.13.52
   port: 22052
   username: Uo12yA8WGE
   password: Y1CuwdznSy
-- name: 3
+- name: Proxy3
   type: socks5
   server: 165.65.13.53
   port: 42053
   username: V2Y0He1iau
   password: rWTToOtgai
-- name: 4
+- name: Proxy4
   type: socks5
   server: 165.65.13.53
   port: 42053
   username: V2Y0He1iau
   password: rWTToOtgai
-- name: 5
+- name: Proxy5
   type: socks5
   server: 165.65.13.54
   port: 32054
   username: ubzlwNMUTp
   password: P8QMAjptmL
-- name: 6
+- name: Proxy6
   type: socks5
   server: 165.65.13.54
   port: 32054
   username: ubzlwNMUTp
   password: P8QMAjptmL
-- name: 7
+- name: Proxy7
   type: socks5
   server: 165.65.13.55
   port: 52055
   username: jirtvCNspm
   password: RXyADrOhOI
-- name: 8
+- name: Proxy8
   type: socks5
   server: 165.65.13.55
   port: 52055
   username: jirtvCNspm
   password: RXyADrOhOI
-- name: 9
+- name: Proxy9
   type: socks5
   server: 165.65.157.162
   port: 5206
   username: mgjkzmfjeypa
   password: iknm13u0sduj
-- name: 10
+- name: Proxy10
   type: socks5
   server: 165.65.157.162
   port: 5206
   username: mgjkzmfjeypa
   password: iknm13u0sduj
-- name: 11
+- name: Proxy11
   type: socks5
   server: 165.65.157.218
   port: 5206
   username: ugjkzmfjedqv
   password: ugqamhlkb334
-- name: 12
+- name: Proxy12
   type: socks5
   server: 165.65.157.218
   port: 5206
   username: ugjkzmfjedqv
   password: ugqamhlkb334
-- name: 13
+- name: Proxy13
   type: socks5
   server: 165.65.157.23
   port: 5206
   username: egjksjk36xts
   password: hwex1ku4b7mh
-- name: 14
+- name: Proxy14
   type: socks5
   server: 165.65.157.23
   port: 5206
   username: egjksjk36xts
   password: hwex1ku4b7mh
-- name: 15
+- name: Proxy15
   type: socks5
   server: 165.65.157.43
   port: 5206
   username: sgjksjk366df
   password: pyzai32gl6no
-- name: 16
+- name: Proxy16
   type: socks5
   server: 165.65.157.43
   port: 5206
   username: sgjksjk366df
   password: pyzai32gl6no
-- name: 17
+- name: Proxy17
   type: socks5
   server: 165.65.157.47
   port: 5206
   username: cgjkzmfjegu4
   password: wwgkb7jvri38
-- name: 18
+- name: Proxy18
   type: socks5
   server: 165.65.157.47
   port: 5206
   username: cgjkzmfjegu4
   password: wwgkb7jvri38
-- name: 19
+- name: Proxy19
   type: socks5
   server: 165.65.157.69
   port: 5206
   username: pgjkzmfjekve
   password: hdwjn8q740n5
-- name: 20
+- name: Proxy20
   type: socks5
   server: 165.65.157.69
   port: 5206
   username: pgjkzmfjekve
   password: hdwjn8q740n5
-- name: 21
+- name: Proxy21
   type: socks5
   server: 165.65.157.86
   port: 5206
   username: xgjkzmfjei6b
   password: yibn33kqnq7d
-- name: 22
+- name: Proxy22
   type: socks5
   server: 165.65.157.86
   port: 5206
   username: xgjkzmfjei6b
   password: yibn33kqnq7d
-- name: 23
+- name: Proxy23
   type: socks5
   server: 165.65.161.163
   port: 5206
   username: bgjnfcnw6gt5
   password: ajdpt5cchada
-- name: 24
+- name: Proxy24
   type: socks5
   server: 165.65.161.163
   port: 5206
   username: bgjnfcnw6gt5
   password: ajdpt5cchada
-- name: 25
+- name: Proxy25
   type: socks5
   server: 144.56.25.136
   port: 5206
   username: rgjncvqwtphy
   password: dmpmxjddxhvb
-- name: 26
+- name: Proxy26
   type: socks5
   server: 144.56.25.136
   port: 5206
   username: rgjncvqwtphy
   password: dmpmxjddxhvb
-- name: 27
+- name: Proxy27
   type: socks5
   server: 144.56.25.19
   port: 5206
   username: ngjncvqwtc74
   password: aszqp8nxtkc4
-- name: 28
+- name: Proxy28
   type: socks5
   server: 144.56.25.19
   port: 5206
   username: ngjncvqwtc74
   password: aszqp8nxtkc4
-- name: 29
+- name: Proxy29
   type: socks5
   server: 144.56.25.39
   port: 5206
   username: zgjncvqwz2xm
   password: jwcu6px95gqw
-- name: 30
+- name: Proxy30
   type: socks5
   server: 144.56.25.39
   port: 5206
   username: zgjncvqwz2xm
   password: jwcu6px95gqw
 rules:
-- PROCESS-NAME,jy.x.separation.atxv.hvoh,1
-- PROCESS-NAME,jy.x.separation.nbsa.efah,2
-- PROCESS-NAME,jy.x.separation.rlru.gihp,3
-- PROCESS-NAME,jy.x.separation.avft.qguv,4
-- PROCESS-NAME,jy.x.separation.epce.ccxr,5
-- PROCESS-NAME,jy.x.separation.hwkz.hwnd,6
-- PROCESS-NAME,jy.x.separation.ijde.lkhh,7
-- PROCESS-NAME,jy.x.separation.eyns.hywd,8
-- PROCESS-NAME,jy.x.separation.lkgr.gxkq,9
-- PROCESS-NAME,jy.x.separation.pnay.ngzx,10
-- PROCESS-NAME,jy.x.separation.cozj.krmc,11
-- PROCESS-NAME,jy.x.separation.bpzs.kunx,12
-- PROCESS-NAME,jy.x.separation.cxji.sdvk,13
-- PROCESS-NAME,jy.x.separation.cmyl.mnlb,14
-- PROCESS-NAME,jy.x.separation.laey.rvtc,15
-- PROCESS-NAME,jy.x.separation.pwsl.atfg,16
-- PROCESS-NAME,jy.x.separation.lczc.afct,17
-- PROCESS-NAME,jy.x.separation.pzyd.ugmf,18
-- PROCESS-NAME,jy.x.separation.mzqr.zpmd,19
-- PROCESS-NAME,jy.x.separation.yksv.uerm,20
-- PROCESS-NAME,jy.x.separation.wrog.lhjl,21
-- PROCESS-NAME,jy.x.separation.afps.ihav,22
-- PROCESS-NAME,jy.x.separation.icau.ugxa,23
-- PROCESS-NAME,jy.x.separation.pljs.etmo,24
-- PROCESS-NAME,jy.x.separation.xgdu.nsad,25
-- PROCESS-NAME,jy.x.separation.lbmz.ques,26
-- PROCESS-NAME,jy.x.separation.euup.olyc,27
-- PROCESS-NAME,jy.x.separation.uhck.hmrt,28
-- PROCESS-NAME,jy.x.separation.fxhn.euyt,29
-- PROCESS-NAME,jy.x.separation.jhee.neeh,30
+- PROCESS-NAME,jy.x.separation.atxv.hvoh,Proxy1
+- PROCESS-NAME,jy.x.separation.nbsa.efah,Proxy2
+- PROCESS-NAME,jy.x.separation.rlru.gihp,Proxy3
+- PROCESS-NAME,jy.x.separation.avft.qguv,Proxy4
+- PROCESS-NAME,jy.x.separation.epce.ccxr,Proxy5
+- PROCESS-NAME,jy.x.separation.hwkz.hwnd,Proxy6
+- PROCESS-NAME,jy.x.separation.ijde.lkhh,Proxy7
+- PROCESS-NAME,jy.x.separation.eyns.hywd,Proxy8
+- PROCESS-NAME,jy.x.separation.lkgr.gxkq,Proxy9
+- PROCESS-NAME,jy.x.separation.pnay.ngzx,Proxy10
+- PROCESS-NAME,jy.x.separation.cozj.krmc,Proxy11
+- PROCESS-NAME,jy.x.separation.bpzs.kunx,Proxy12
+- PROCESS-NAME,jy.x.separation.cxji.sdvk,Proxy13
+- PROCESS-NAME,jy.x.separation.cmyl.mnlb,Proxy14
+- PROCESS-NAME,jy.x.separation.laey.rvtc,Proxy15
+- PROCESS-NAME,jy.x.separation.pwsl.atfg,Proxy16
+- PROCESS-NAME,jy.x.separation.lczc.afct,Proxy17
+- PROCESS-NAME,jy.x.separation.pzyd.ugmf,Proxy18
+- PROCESS-NAME,jy.x.separation.mzqr.zpmd,Proxy19
+- PROCESS-NAME,jy.x.separation.yksv.uerm,Proxy20
+- PROCESS-NAME,jy.x.separation.wrog.lhjl,Proxy21
+- PROCESS-NAME,jy.x.separation.afps.ihav,Proxy22
+- PROCESS-NAME,jy.x.separation.icau.ugxa,Proxy23
+- PROCESS-NAME,jy.x.separation.pljs.etmo,Proxy24
+- PROCESS-NAME,jy.x.separation.xgdu.nsad,Proxy25
+- PROCESS-NAME,jy.x.separation.lbmz.ques,Proxy26
+- PROCESS-NAME,jy.x.separation.euup.olyc,Proxy27
+- PROCESS-NAME,jy.x.separation.uhck.hmrt,Proxy28
+- PROCESS-NAME,jy.x.separation.fxhn.euyt,Proxy29
+- PROCESS-NAME,jy.x.separation.jhee.neeh,Proxy30
