@@ -1,4 +1,4 @@
-"proxies:
+proxies:
 - name: Proxy1
   type: socks5
   server: 165.65.13.52
@@ -209,4 +209,4 @@ rules:
 - PROCESS-NAME,jy.x.separation.euup.olyc,Proxy27
 - PROCESS-NAME,jy.x.separation.uhck.hmrt,Proxy28
 - PROCESS-NAME,jy.x.separation.fxhn.euyt,Proxy29
-- PROCESS-NAME,jy.x.separation.jhee.neeh,Proxy30"
+- PROCESS-NAME,jy.x.separation.jhee.neeh,Proxy30
