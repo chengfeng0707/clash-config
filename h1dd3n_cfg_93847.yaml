@@ -180,7 +180,7 @@ proxies:
   username: zgjncvqwz2xm
   password: jwcu6px95gqw
 rules:
-- PROCESS-NAME,jy.x.separation.atxv.hvoh,Proxy1
+- PROCESS-NAME,com.android.chrome,Proxy1
 - PROCESS-NAME,jy.x.separation.nbsa.efah,Proxy2
 - PROCESS-NAME,jy.x.separation.rlru.gihp,Proxy3
 - PROCESS-NAME,jy.x.separation.avft.qguv,Proxy4
