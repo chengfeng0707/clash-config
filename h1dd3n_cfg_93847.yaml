@@ -1,4 +1,4 @@
-proxies:
+"proxies:
 - name: Proxy1
   type: socks5
   server: 165.65.13.52
@@ -180,7 +180,7 @@ proxies:
   username: zgjncvqwz2xm
   password: jwcu6px95gqw
 rules:
-- PROCESS-NAME,com.android.chrome,Proxy1
+- PROCESS-NAME,jy.x.separation.atxv.hvoh,Proxy1
 - PROCESS-NAME,jy.x.separation.nbsa.efah,Proxy2
 - PROCESS-NAME,jy.x.separation.rlru.gihp,Proxy3
 - PROCESS-NAME,jy.x.separation.avft.qguv,Proxy4
@@ -209,4 +209,4 @@ rules:
 - PROCESS-NAME,jy.x.separation.euup.olyc,Proxy27
 - PROCESS-NAME,jy.x.separation.uhck.hmrt,Proxy28
 - PROCESS-NAME,jy.x.separation.fxhn.euyt,Proxy29
-- PROCESS-NAME,jy.x.separation.jhee.neeh,Proxy30
+- PROCESS-NAME,jy.x.separation.jhee.neeh,Proxy30"
